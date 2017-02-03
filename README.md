@@ -18,7 +18,12 @@
 <br>4. Praktikum 2 yaitu membuat program penerapan array berbasis GUI menggunakan netbeans <br>
 Disini saya membuat program penerapan array berjudul "Daftar Makanan Cathering YULI" dengan penjelasan sebagai berikut yaitu 
 ketika kita memilih pilihan hari pada combobox yang disediakan maka, akan tampil sebuah daftar menu masakan berupa sayur dan lauk pauk 
-yang ingin kita pilih dan untuk memesannya dapat langsung menghubungi nomor di bawah daftar menu. 
+yang ingin kita pilih dan untuk memesannya dapat langsung menghubungi nomor di bawah daftar menu. <br>
+Dan ini adalah source code dari program diatas <br><br>
+![praktikum9](https://cloud.githubusercontent.com/assets/22133514/22578056/6119a0ba-e9f8-11e6-8b45-73886e72773f.PNG)
+![praktikum11](https://cloud.githubusercontent.com/assets/22133514/22578055/61192c66-e9f8-11e6-9681-b1e5a9d17bb7.PNG)
+![praktikum12](https://cloud.githubusercontent.com/assets/22133514/22578057/61403dce-e9f8-11e6-8a7d-9dbc82f0a37d.PNG)
+<br> <br>Sama halnya dengan praktikum 1 tentang dokter saya hanya menggunakan combobox dan textfield untuk memilih hari dan textfield untuk menampilkan daftar menu dari hari yang dipilih. Dan berikut adalah hasil eksekusi dari program tsb <br><br>
 ![praktikum2](https://cloud.githubusercontent.com/assets/22133514/22577803/db1ead1c-e9f6-11e6-9899-093a819bae8b.PNG)
 ![praktikum3](https://cloud.githubusercontent.com/assets/22133514/22577804/db2c1088-e9f6-11e6-8c9b-c81186f82037.PNG)
 ![praktikum4](https://cloud.githubusercontent.com/assets/22133514/22577805/db30770e-e9f6-11e6-9ba0-bc566562cc31.PNG)
